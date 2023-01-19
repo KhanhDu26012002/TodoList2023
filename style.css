@@ -238,3 +238,7 @@ font-family: 'Pacifico', cursive;
   font-family: 'Pacifico', cursive;
   box-shadow: 0 0 25px #42979d;
 }
+.wrapper{
+  width: 100%;
+    margin: auto;
+}
